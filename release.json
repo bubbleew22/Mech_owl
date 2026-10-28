@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "versionCode": 5,
+  "artifacts": {
+    "Snow-Owl-Manager": {
+      "sha256": "8c0a781c5134d4acab3c1fe94b1b3b91c853b0ef0caa2f362f616878bce56725",
+      "bytes": 181527
+    },
+    "Snow-Owl-Companion": {
+      "sha256": "584206f985b65f5303a890363b51136a856318f2801a73537ea7a4b90969e6b6",
+      "bytes": 148759
+    }
+  },
+  "certificateSha256": "7C:13:D1:80:F6:FD:AD:9D:BF:23:D1:71:1E:62:FE:FB:73:D7:56:74:6C:34:C3:F0:A1:76:FC:F0:1A:EC:71:A8"
+}
